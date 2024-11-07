@@ -38,7 +38,7 @@ The project is structured as follows:
 3. **Equals**: Click `=` to calculate the result.
 4. **Clear**: Press `C` to reset the display for a new calculation.
 
-## Screenshots
+## Screenshot
 ![Calculator Screenshot](https://github.com/user-attachments/assets/15ecc915-d3e6-4470-9321-e68be122f136)
 
 
